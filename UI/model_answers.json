@@ -1,0 +1,22 @@
+{
+    "1": {
+        "Q": "What is AI?",
+        "A": "Artificial Intelligence allows machines to understand and interact with their environment in a meaningful way."
+    },
+    "2": {
+        "Q": "What is Machine Learning?",
+        "A": "In Machine Learning, models are trained on data to develop predictive capabilities without direct human intervention."
+    },
+    "3": {
+        "Q": "What is Deep Learning?",
+        "A": "In Deep Learning, deep neural networks help computers recognize speech, images, and perform natural language processing tasks."
+    },
+    "4": {
+        "Q": "What is Python?",
+        "A": "Python is a versatile programming language known for its simplicity, readability, and extensive libraries."
+    },
+    "5": {
+        "Q": "What is an Algorithm?",
+        "A": "Algorithms are fundamental in computer science and are used to perform calculations, process data, and automate tasks."
+    }
+}
